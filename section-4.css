@@ -1,0 +1,48 @@
+
+ .text8{
+    padding: 4rem;
+    padding-top: 0;
+ }
+
+.text8-1{
+    font-size: 2rem;
+    font-weight: 500;
+    margin-bottom: 20px;
+    
+}
+.section4{
+    margin-top: 7rem;
+    padding-bottom: 3rem;
+    
+}
+.flex1{
+    text-align: center;
+}
+.flex1-1{
+    text-align: center;
+    border: 1px solid;
+    border-color: grey;
+   
+}
+.flex1-2{
+    text-align: center;
+    border: 1px solid;
+    border-color: grey;
+    
+}
+.flexborder{
+   
+    padding-top: 0;
+    height: 13rem;
+    margin-bottom: 3rem;
+    
+}
+.rps1{
+    padding-top: 1rem;
+}
+.rps2{
+    padding-top: 1rem;
+}
+.atag1{
+    text-decoration: none;
+}

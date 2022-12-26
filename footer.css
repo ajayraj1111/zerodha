@@ -1,0 +1,66 @@
+.footer1{
+    background-color: #fafafb;
+    border-top: 1px solid gainsboro;
+}
+
+.footer-icons{
+    padding-bottom: 2rem;
+    opacity: .8;
+}
+
+.image4{
+    width: 10rem;
+    padding-bottom: 2rem;
+    padding-top: 1.6rem;
+}
+.footer-text{
+    font-weight: bold;
+    font-size: 1.4em;
+    padding-bottom: 1rem;
+    padding-top: 1.5rem;
+    opacity: .9;
+}
+.footerslist{
+    padding-left: 5rem;
+}
+
+.footers{
+    padding-left: 5rem;
+}
+.footer-1-1{
+    font-size: .85rem;
+    opacity: .9;
+}
+.details{
+    font-size: .7rem;
+    font-weight: bold;
+    opacity: .7;
+}
+span{
+    color: #387ed1;
+}
+.details-list{
+    opacity: .8;
+}
+.footerlist{
+    display: flex;
+    list-style-type: none;
+    font-size: .7rem;
+    font-weight: bold;
+    opacity: .8;
+   align-items: center;
+   width: auto;
+  
+ 
+}
+.footer-end{
+    cursor: pointer;
+   font-size: .8rem;
+   opacity: .95;
+    /* margin-left: 1rem;
+     */
+}
+.footer-end:hover{
+   text-decoration: underline;
+   
+}

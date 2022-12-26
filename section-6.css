@@ -1,0 +1,15 @@
+.section-6{
+    text-align: center;
+    padding: 6rem;
+}
+.sign{
+    width: 12rem;
+    height: 3rem;
+    border-radius: 3px;
+    background-color: #387ed1;
+    border-color: transparent;
+    color: #fff;
+    font-weight: 500;
+    margin-top: 1rem;
+    font-size: 1.2em;
+}
